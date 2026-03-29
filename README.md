@@ -45,7 +45,7 @@ NIM: 2409116054
 
 - `Image Zoom Effect`: Gambar sertifikat akan sedikit membesar (scale) saat di-hover untuk memberikan kesan interaktif.
 
-- `Identity Label`: Setiap kartu mencantumkan judul sertifikat dan instansi penyelenggara di bagian bawah gambar.
+- `Hover Animation`: Seluruh kartu pada section ini akan sedikit terangkat (translate-Y) dan bayangannya menebal saat disentuh kursor.
 <img width="939" height="416" alt="image" src="https://github.com/user-attachments/assets/79d52425-f149-46d4-bb40-2609ae1f2735" />
 
 ### 5. Footer (Copyright Section)
