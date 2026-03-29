@@ -1,0 +1,65 @@
+body { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.bg-navy { 
+    background-color: #0a1f44; 
+}
+
+.hero {
+    min-height: 100vh;
+    background: linear-gradient(to right, #0a1f44, #132f63);
+    color: white;
+    padding-top: 80px;
+}
+
+.profile-img {
+    width: 300px ;
+    height: 300px ;
+    object-fit: cover ;
+    border-radius: 50%;
+    border: 6px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+    display: block;
+}
+
+.about-box {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    border-left: 5px solid #0a1f44;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+    height: 100%;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+}
+
+.card {
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+    .hero { 
+        text-align: center; 
+        padding-bottom: 50px; 
+        height: auto;
+    }
+    .profile-img { 
+        width: 220px; 
+        height: 220px; 
+        margin-top: 30px; 
+    }
+    .about-box { 
+        margin-bottom: 20px; 
+    }
+}
