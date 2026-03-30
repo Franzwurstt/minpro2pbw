@@ -134,6 +134,10 @@ NIM: 2409116054
 - `Mobile Adjustment`: Menggunakan @media (max-width: 768px) untuk mengubah tata letak Hero Section menjadi rata tengah (text-align: center) dan menyesuaikan ukuran foto profil agar pas di layar kecil.
 
 - `Stacking Behavior`: Memastikan .about-box dan kartu lainnya memiliki margin bawah yang cukup saat bertumpuk secara vertikal di perangkat mobile.
+
+## Tabel Dataset
+<img width="761" height="265" alt="image" src="https://github.com/user-attachments/assets/82699ef2-6bbc-4bb8-81cf-0359513d33e5" />
+
 ## Teknologi yang digunakan
 - `PHP` — server-side rendering, konfigurasi koneksi database, dan eksekusi query untuk menarik data secara dinamis.
 
@@ -144,3 +148,6 @@ NIM: 2409116054
 - `CSS` — pewarnaan navy theme, linear gradient pada Hero section, efek transisi hover pada kartu, object-fit untuk proporsi gambar, dan responsive design via media query.
 
 - `FontAwesome 6.5` — icon set berbasis vektor untuk tombol media sosial (Instagram, LinkedIn) dan dekorasi penanda judul section (User, Briefcase, Code).
+
+## Note
+Jika ingin menjalankan program ini maka kalian harus import file mysql (portfolio_db) yang sudah saya berikan di file github.
