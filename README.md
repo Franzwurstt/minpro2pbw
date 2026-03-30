@@ -150,4 +150,4 @@ NIM: 2409116054
 - `FontAwesome 6.5` — icon set berbasis vektor untuk tombol media sosial (Instagram, LinkedIn) dan dekorasi penanda judul section (User, Briefcase, Code).
 
 ## Note
-Jika ingin menjalankan program ini maka kalian harus import file mysql (portfolio_db) yang sudah saya berikan di file github.
+Jika ingin menjalankan program ini maka kalian harus download dan import file mysql (portofolio_db.sql) ke phpmyadmin kalian.
