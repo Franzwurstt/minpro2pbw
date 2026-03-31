@@ -47,14 +47,13 @@ $certificates = mysqli_query($conn, "SELECT * FROM certificates");
                 <div class="col-md-6 text-white">
                     <h1 class="fw-bold mb-3">Halo, Saya <?php echo $data_profile['nama']; ?></h1>
                     <p class="lead mb-4"><?php echo $data_profile['deskripsi']; ?></p>
-                    <a href="#" class="btn btn-light px-4 py-2 me-2 fw-bold">
+                        <a href="https://www.instagram.com/prass125/" target="_blank" class="btn btn-light me-2">
                         <i class="fa-brands fa-instagram"></i> Instagram
                     </a>
-                    <a href="#" class="btn btn-outline-light px-4 py-2 fw-bold">
+                    <a href="https://www.linkedin.com/in/prakasa-wira-mukti-858a77330/" target="_blank" class="btn btn-light me-2">
                         <i class="fa-brands fa-linkedin"></i> LinkedIn
                     </a>
                 </div>
-
                 <div class="col-md-6 mt-5 mt-md-0 text-center">
                     <img src="images/<?php echo $data_profile['foto']; ?>" class="profile-img" alt="Foto Profil">
                 </div>
