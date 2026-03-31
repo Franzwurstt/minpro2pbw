@@ -24,7 +24,8 @@ NIM: 2409116054
 - `Action Buttons`: Tombol Instagram (Solid white) dan LinkedIn (Outline white) dengan ikon FontAwesome.
 
 - `Circular Profile Image`: Foto profil berbentuk lingkaran dengan border transparan dan efek bayangan (box-shadow) yang kuat agar terlihat melayang.
-<img width="937" height="418" alt="image" src="https://github.com/user-attachments/assets/e554ce6f-a640-4f29-81c4-ab10bb03ffc3" />  
+<img width="943" height="414" alt="image" src="https://github.com/user-attachments/assets/bea6796d-7722-4b12-84b0-596d184bc9b0" />
+
 
 ### 3. About Me (Personal Information Section)
 - `Triple Card Layout`: Informasi dibagi menjadi tiga kolom kartu (Description, Experience, Skills) untuk keterbacaan yang maksimal.
